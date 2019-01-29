@@ -1,16 +1,8 @@
 # learning_images
+In this project, I learned how to use the Carousal slider plugin to build an image container that changes the image over a predefined interval.  The challenge is the interval should be settable from a property on the Carousel Slider, but unfortunately is set as a const in the plug in.  I change that from 4 to 10 secods...
 
-A new Flutter project.
+## Images
 
-## Getting Started
+I am using unsplash images and used the information from the Medium article, [_How to quickly generate a random gallery of images from an unsplash collection in javascript without using the API_](https://medium.com/quick-code/how-to-quickly-generate-a-random-gallery-of-images-from-an-unsplash-collection-in-javascript-4ddb2a6a4faf)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
